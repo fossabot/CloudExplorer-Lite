@@ -24,9 +24,13 @@ CloudExplorer Lite 提供了诸多开箱即用的功能，比如云主机管理�
 
 CloudExplorer Lite 提供了强大的多租户体系和模块化能力，可以满足企业的定制化需求。
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCloudExplorer-Dev%2FCloudExplorer-Lite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCloudExplorer-Dev%2FCloudExplorer-Lite?ref=badge_large)
+
 ## UI 展示
 
 ![ce-主页](https://fit2cloud.com/cloudexplorer-lite/docs/img/index/主页.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCloudExplorer-Dev%2FCloudExplorer-Lite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCloudExplorer-Dev%2FCloudExplorer-Lite?ref=badge_shield)
 
 ## 快速开始
 
